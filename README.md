@@ -1,5 +1,5 @@
 # dive-wasm
-This is an arXive of a research on float type representations of WebAssembly on x86 and ARM, and the design research of fixed point type of smart contract written in [Liquid](https://liquid-doc.readthedocs.io/zh_CN/latest/index.html) running on [FISCO-BCOS 3.0](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/).
+This is an arXive of a research on float type representation of WebAssembly on x86 and ARM and the design research of fixed point type of smart contracts written in [Liquid](https://liquid-doc.readthedocs.io/zh_CN/latest/index.html) running on [FISCO-BCOS 3.0](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/).
 
 ## Aims
 

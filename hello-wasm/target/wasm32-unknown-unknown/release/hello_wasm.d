@@ -1,0 +1,1 @@
+/Users/shall/VSCode/Rust/hello_world/hello-wasm/target/wasm32-unknown-unknown/release/hello_wasm.wasm: /Users/shall/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/wasm-bindgen-0.2.78/build.rs /Users/shall/VSCode/Rust/hello_world/hello-wasm/src/lib.rs

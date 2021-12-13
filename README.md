@@ -1,5 +1,5 @@
 # dive-wasm
-This is an archive of a research on the consistency of the  WebAssembly representation of float-point number on x86 and ARM.
+This is an archive of a research on the consistency of the  WebAssembly representation of float-point number on x86 and ARM and some ideas about the binary representations of fixed pint type numbers in Liquid smart contract.
 
 ## Aims
 
